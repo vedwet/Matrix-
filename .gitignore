@@ -1,0 +1,12 @@
+# Original source assets (the site uses the processed copies in images/ and videos/)
+/Glowing Green Matrix Logo.png
+/Neo Dodging Bullets _ The Matrix.mp4
+/Neon Green Shadow Portrait.png
+/Slicked-Back Man with Green Lenses.png
+
+# Unused placeholder
+/images/model.svg
+
+# Local tooling
+/.claude/
+.DS_Store

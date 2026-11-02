@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800">
+  <!-- Placeholder portrait: replace with images/crew/<name>.jpg -->
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#3a3a3a"/>
+      <stop offset="1" stop-color="#050505"/>
+    </radialGradient>
+    <radialGradient id="skin" cx="40%" cy="30%" r="75%">
+      <stop offset="0" stop-color="#d8d8d8"/>
+      <stop offset="0.55" stop-color="#7a7a7a"/>
+      <stop offset="1" stop-color="#1c1c1c"/>
+    </radialGradient>
+    <linearGradient id="coat" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a5a5a"/>
+      <stop offset="1" stop-color="#0c0c0c"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <path d="M40 800 C60 640 160 590 250 570 L350 570 C440 590 540 640 560 800 Z" fill="url(#coat)"/>
+  <path d="M255 470 L345 470 L340 580 C315 600 285 600 260 580 Z" fill="#3a3a3a"/>
+  <path d="M300 170 C380 170 410 235 410 315 C410 400 370 490 300 505 C230 490 190 400 190 315 C190 235 220 170 300 170 Z" fill="url(#skin)"/>
+  <path d="M215 305 C250 290 350 290 385 305 L380 335 C350 345 330 335 300 335 C270 335 250 345 220 335 Z" fill="#0a0a0a"/>
+</svg>
